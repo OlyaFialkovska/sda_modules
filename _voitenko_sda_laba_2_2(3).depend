@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1712138872 source:d:\univer\sda\_voitenko_sda_laba_2_2(3)\common.c
+	"common.h"
+
+1712139016 d:\univer\sda\_voitenko_sda_laba_2_2(3)\common.h
+	<stdio.h>
+
+1712139614 source:d:\univer\sda\_voitenko_sda_laba_2_2(3)\m2.c
+	"Common.h"
+	"MErr.h"
+	"M2.h"
+	"M3.h"
+
+1712138289 d:\univer\sda\_voitenko_sda_laba_2_2(3)\merr.h
+
+1712138092 d:\univer\sda\_voitenko_sda_laba_2_2(3)\m2.h
+
+1712138190 d:\univer\sda\_voitenko_sda_laba_2_2(3)\m3.h
+
+1712139607 source:d:\univer\sda\_voitenko_sda_laba_2_2(3)\m3.c
+	"Common.h"
+	"MErr.h"
+	"M3.h"
+	"M2.h"
+
+1712138747 source:d:\univer\sda\_voitenko_sda_laba_2_2(3)\main.c
+	"M1.h"
+	"M2.h"
+	"MErr.h"
+	"Common.h"
+
+1712138801 d:\univer\sda\_voitenko_sda_laba_2_2(3)\m1.h
+
+1712138327 source:d:\univer\sda\_voitenko_sda_laba_2_2(3)\merr.c
+	"MErr.h"
+	"Common.h"
+
+1712139614 source:d:\univer\sda\_voitenko_sda_laba_2_2(3)\m1.c
+	"MErr.h"
+	"Common.h"
+	"M1.h"
+
